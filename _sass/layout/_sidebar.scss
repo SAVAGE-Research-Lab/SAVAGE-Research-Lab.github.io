@@ -221,12 +221,12 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
+  text-align: center;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
+  margin-top: 0.8em;
 
   li:last-child {
     a {
@@ -236,10 +236,17 @@
 
   @include breakpoint($large) {
     display: block;
+    text-align: left;
+    margin-top: 0;
   }
 
   button {
+    display: inline-block;
+    padding: 0.5em 1.5em;
+    font-size: 0.9em;
     margin-bottom: 0;
+    border-radius: 6px;
+    cursor: pointer;
 
     @include breakpoint($large) {
       display: none;
