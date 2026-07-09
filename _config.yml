@@ -24,7 +24,7 @@ author:
   name             : "Qian Zhou（周倩）"
   pronouns         : # example: "she/her"  
   bio              : "<i>Director of Institute</i><br><i>Associate Editor (Springer)</i>"
-  location         : "China Nanjing"
+  location         : #"China Nanjing"
   employer         : 
   uri              : # URL
   email            : "lotusjennie@gmail.com" 
