@@ -60,15 +60,15 @@ Qian Zhou, Jiayang Wu\*, Yuhang Zhou<br>
 Qian Zhou, Mengyue Zhu, Fan Wang<br>
 [*Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition), 2025*]
 
-- **A Survey on Verifiable Keyword Search over Encrypted Cloud Data** [[PDF](/files/Research%20on%20Verifiable%20Keyword%20Search%20ove%20rEncrypted%20Cloud%20Data%20A%20Survey.pdf)]<br>
+- **Research on Verifiable Keyword Search over Encrypted Cloud Data :A Surve** [[PDF](/files/Research%20on%20Verifiable%20Keyword%20Search%20ove%20rEncrypted%20Cloud%20Data%20A%20Survey.pdf)]<br>
 Qian Zhou, Hua Dai\*, Wenjie Sheng, Zheng Hu, Geng Yang<br>
 [*Computer Science, 2022 (CCF-T2)*]
 
-- **A Location Privacy Preservation Scheme Based on Consortium Blockchain in VANET** [PDF]<br>
+- **A location privacy preservation scheme based on Consortium Block-chain in VANET** [PDF]<br>
 <u>Qian Zhou</u>\*, Zhixin Sun\*, Jiayang Wu, Hua Dai, Geng Yang<br>
 [*Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition), 2022*]
 
-- **An Adaptive Path Planning Algorithm for Local Delivery of Confidential Documents Based on Blockchain** [PDF]<br>
+- **An Adaptive Path Planning Algorithm for Local Delivery of Confidential Documents Based on Block-Chain** [PDF]<br>
 <u>Qian Zhou</u>\*, Tianlong Zhang, Jiayang Wu, Zhongxu Han, Hua Dai<br>
 [*Journal of Data Acquisition and Processing, 2022*]
 
@@ -84,11 +84,11 @@ Qian Zhou, Hua Dai\*, Zheng Hu, Yuanlong Liu, Geng Yang<br>
 <u>Qian Zhou</u>\*, Hua Dai, Jianguo Zhou, Rongqi Qi, Geng Yang, Xun Yi<br>
 [*Security and Communication Networks, 2021 (CCF-C)*]
 
-- **An Energy-Efficient Source Location Privacy Preserving Algorithm Based on Attack Awareness** [PDF]<br>
+- **Preserving source-location privacy efficiently based on attack-perceiving in wireless sensor network** [PDF]<br>
 Qian Zhou, Xiaolin Qin\*, Youwei Ding<br>
 [*Journal on Communications, 2018 (CCF-T1)*]
 
-- **Intelligent Silent Zone for Source-Location Privacy Based on Context-Awareness in WSNs** [PDF]<br>
+- **Intelligent Silent Zone for Source-Location Privacy based on Context-Awareness in WSNs** [PDF]<br>
 Qian Zhou, Xiaolin Qin\*, Youwei Ding<br>
 [*Transactions of Nanjing University of Aeronautics and Astronautics, 2018 (EI)*]
 
@@ -96,7 +96,7 @@ Qian Zhou, Xiaolin Qin\*, Youwei Ding<br>
 Qian Zhou, Xiaolin Qin\*<br>
 [*IEEE ICNSC, 2018 (EI)*]
 
-- **Hash-Based Contextual Privacy Preservation in Wireless Sensor Networks** [PDF]<br>
+- **Hash-based contextual privacy preservation in wireless sensor networks** [PDF]<br>
 Qian Zhou, Xiaolin Qin\*, Youwei Ding<br>
 [*Journal of Nanjing University of Science and Technology, 2017*]
 
