@@ -3,6 +3,7 @@ permalink: /projects/
 title: "🛠️Technology &amp; Intellectual Property"
 author_profile: true
 ---
+
 Our lab **bridges the gap** between theoretical breakthroughs and industrial-scale impact. The maturity of our research is solidified by an extensive portfolio of **authorized national patents and software copyrights**, which serve as the **technological bedrock** for our secure solutions in **autonomous platforms, low-altitude economy, and privacy preservation**.
 
 ---
