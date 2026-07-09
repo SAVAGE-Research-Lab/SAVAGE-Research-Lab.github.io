@@ -9,6 +9,7 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   z-index: 10;  
 
   @include clearfix();
   margin-bottom: 1em;
@@ -23,7 +24,7 @@
     bottom: 0;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    padding-bottom: 5em;
+    padding-bottom: 2em;
 }
 
   @include breakpoint($large) {
