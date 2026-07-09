@@ -3,7 +3,7 @@ permalink: /projects/
 title: "🛠️Technology & Intellectual Property"
 author_profile: true
 ---
-Our lab bridges the gap between theoretical research and industrial application. We have translated our research into **13 authorized National Invention Patents** and **2 Software Copyrights**, focusing on system security, domestic autonomous platforms, and privacy-preserving technologies.
+Our lab **bridges the gap** between theoretical breakthroughs and industrial-scale impact. The maturity of our research is solidified by an extensive portfolio of **authorized national patents and software copyrights**, which serve as the **technological bedrock** for our secure solutions in **autonomous platforms, low-altitude economy, and privacy preservation**.
 
 ---
 
@@ -29,8 +29,9 @@ Focusing on kernel-level protection, multi-threading security, and log-based thr
 
 Building secure frameworks for logistics, IoV (Internet of Vehicles), and smart agriculture.
 
-- **[System & SW] Blockchain-based Contextual Location Privacy Protection System.**
-  - Highlights: A complete software suite for secure local delivery.
+- **[SW] Blockchain-based Contextual Location Privacy Protection System.**
+  - A complete software suite for secure local delivery.
+  - Developers: **Qian Zhou**, J. Wu, T. Zhang, Z. Han.
   - Copyright ID: 2018SR271600 (Ranking: 1st).
 
 - **[Patent] Contextual Location Privacy Preservation** for express delivery based on blockchain.
@@ -46,6 +47,7 @@ Building secure frameworks for logistics, IoV (Internet of Vehicles), and smart 
   - ID: ZL202010626701.1 (Authorized: Aug 2022).
 
 - **[Patent] Data Monitoring & Auto-control** in Smart Agriculture based on dual-chain mechanism.
+  - Inventors: Z. Sun, Y. Xu, H. Wang, B. Hu, Z. Sun, **Qian Zhou**.
   - ID: ZL202010655335.2 (Authorized: March 2022).
 
 ---
@@ -54,14 +56,17 @@ Building secure frameworks for logistics, IoV (Internet of Vehicles), and smart 
 
 Dedicated to high-performance middleware and efficient encrypted data retrieval.
 
-- **[SW] Distributed Message Middleware with High Real-time & Fault Tolerance.**
-  - Target: **Domestic Autonomous Computing Platforms**.
-  - Copyright ID: 2023SR0997588 (Ranking: 1st).
+- **[SW] Distributed Message Middleware** with High Real-time & Fault Tolerance.
+  - **Domestic Autonomous Computing Platforms**.
+  - Developers: **Qian Zhou**, J. Wu, Nanjing Savage Intelligent Technology Research Institute Co., Ltd. 
+  - Copyright ID: 2023SR0997588.(Ranking: 1st)
 
 - **[Patent] Semantic-aware Feature Keyword Extraction** for optimized ciphertext retrieval in cloud environment.
+  - Applicants: H. Dai, Y. Jiang, X. Dai, **Qian Zhou**, G. Yang, H. Huang.
   - ID: ZL2020092500303650 (Authorized: Oct 2022).
 
 - **[Patent] Retrieval Filtering Threshold Selection** for cloud-based ciphertext search efficiency.
+  - Applicants: H. Dai, Y. Jiang, Z. Chen, T. Yang, **Qian Zhou**, G. Yang, H. Huang.
   - ID: ZL2020122202325270 (Authorized: Sept 2022).
 
 ---
@@ -71,15 +76,17 @@ Dedicated to high-performance middleware and efficient encrypted data retrieval.
 Developing intelligent algorithms for mobile objects and contagious behavior mining.
 
 - **[Patent] Multi-source Contagious Event Discovery** for mobile objects.
+  - Inventors: H. Dai, Y. Chen, **Qian Zhou**, Y. Liu, G. Yang, Y. Chen.
   - ID: ZL2022100925651 (Authorized: Nov 2024).
 
 - **[Patent] Contagious Behavior Mining** based on binary filtering for mobile objects.
+  - Applicants: H. Dai, Y. Chen, J. Li, **Qian Zhou**, G. Yang, H. Huang.
   - ID: ZL2020122600529420 (Authorized: Feb 2023).
 
 - **[Patent] Spreading Pattern Mining** based on trajectory data.
+  - Applicants: H. Dai, T. Zhang, **Qian Zhou**, J. Li, G. Yang, H. Huang.
   - ID: ZL202010950084.0 (Authorized: Oct 2022).
 
 - **[Patent] Geographic Coordinate Density Clustering** based on GeoHash.
+  - Inventors: H. Dai, Y. Liu, Y. Chen, G. Yang, J. Li, **Qian Zhou**.
   - ID: ZL202110644375.1 (Authorized: July 2022).
-
-
