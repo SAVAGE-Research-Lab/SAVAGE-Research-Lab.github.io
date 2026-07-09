@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "🛠️Technology & Intellectual Property"
+title: "🛠️Technology &amp; Intellectual Property"
 author_profile: true
 ---
 Our lab **bridges the gap** between theoretical breakthroughs and industrial-scale impact. The maturity of our research is solidified by an extensive portfolio of **authorized national patents and software copyrights**, which serve as the **technological bedrock** for our secure solutions in **autonomous platforms, low-altitude economy, and privacy preservation**.
@@ -20,7 +20,7 @@ Focusing on kernel-level protection, multi-threading security, and log-based thr
   - ID: ZL202111384841.3 (Authorized: Aug 2024).
 
 - **[Patent] Log Anomaly Detection** based on LDA (Latent Dirichlet Allocation) topic features.
-  - Inventors: H. Dai, X. Sun, J. Zhou, **Qian Zhou**, et al.
+  - Inventors: H. Dai, X. Sun, J. Zhou, **Qian Zhou**, G. Yang, Y. Chen.
   - ID: ZL202210689100.4 (Authorized: Nov 2024).
 
 ---
@@ -43,7 +43,7 @@ Building secure frameworks for logistics, IoV (Internet of Vehicles), and smart 
   - ID: ZL202310234793.2 (Authorized: April 2023).
 
 - **[Patent] Consensus Mechanism Operation Method** for Consortium Blockchains.
-  - Inventors: Z. Sun, F. Lv, Y. Xu, Z. Sun, **Qian Zhou**, et al.
+  - Inventors: Z. Sun, F. Lv, Y. Xu, Z. Sun, **Qian Zhou**, B. Luo, B. Song.
   - ID: ZL202010626701.1 (Authorized: Aug 2022).
 
 - **[Patent] Data Monitoring & Auto-control** in Smart Agriculture based on dual-chain mechanism.
@@ -58,7 +58,7 @@ Dedicated to high-performance middleware and efficient encrypted data retrieval.
 
 - **[SW] Distributed Message Middleware** with High Real-time & Fault Tolerance.
   - **Domestic Autonomous Computing Platforms**.
-  - Developers: **Qian Zhou**, J. Wu, Nanjing Savage Intelligent Technology Research Institute Co., Ltd. 
+  - Developers: **Qian Zhou**, J. Wu, Nanjing Savage Intelligent Technology Research Institute Co., Ltd.
   - Copyright ID: 2023SR0997588.(Ranking: 1st)
 
 - **[Patent] Semantic-aware Feature Keyword Extraction** for optimized ciphertext retrieval in cloud environment.
