@@ -27,15 +27,15 @@ author:
   location         : "China Nanjing"
   employer         : 
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "lotusjennie@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=1m-eteUAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7888-2419"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
