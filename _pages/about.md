@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 **Dr. Qian Zhou** is an Associate Professor, Master Supervisor, and the Director of the **Institute of Applied Technology for System Security and Availability Engineering**(SAVAGE) at Nanjing University of Posts and Telecommunications (NJUPT). 
 
 With over 20 years of dedication to cyber security, Dr. Zhou leads the **SAVAGE Research Lab**, where her research is driven by the mission to build "Trustworthy and Resilient Intelligent Infrastructures." Her expertise spans four pillars of modern information security:
