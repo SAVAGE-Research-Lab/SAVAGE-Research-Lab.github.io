@@ -85,6 +85,7 @@ Developing intelligent algorithms for mobile objects and contagious behavior min
 - **[Patent] Spreading Pattern Mining** based on trajectory data.
   - Applicants: Hua Dai, Tonghui Zhang, **Qian Zhou**, Jiawei Li, Geng Yang, Haiping Huang.
   - ID: ZL202010950084.0 (Authorized: Oct 2022)
+  - 
 
 - **[Patent] Geographic Coordinate Density Clustering** based on GeoHash.
   - Inventors: Hua Dai, Yiyang Liu, Yu Chen, Geng Yang, Jiawei Li, **Qian Zhou**.
