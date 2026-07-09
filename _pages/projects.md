@@ -56,16 +56,17 @@ Building secure frameworks for logistics, IoV (Internet of Vehicles), and smart 
 
 Dedicated to high-performance middleware and efficient encrypted data retrieval.
 
-- **[SW] Distributed Message Middleware** with High Real-time &amp; Fault Tolerance for **Domestic Autonomous Computing Platforms**.
+- **[SW] Distributed Message Middleware** with High Real-time &amp; Fault Tolerance.
+  - **Domestic Autonomous Computing Platforms**.
   - Developers: **Qian Zhou**, Jiayang Wu, Nanjing Savage Intelligent Technology Research Institute Co., Ltd.
   - Copyright ID: 2023SR0997588 (Ranking: 1st)
 
 - **[Patent] Semantic-aware Feature Keyword Extraction** for optimized ciphertext retrieval in cloud environment.
-  - Applicants: Hua Dai, Yingying Jiang, Xuelong Dai, **Qian Zhou**, Geng Yang, Haiping Huang.
+  - Inventors: Hua Dai, Yingying Jiang, Xuelong Dai, **Qian Zhou**, Geng Yang, Haiping Huang.
   - ID: ZL2020092500303650 (Authorized: Oct 2022)
 
 - **[Patent] Retrieval Filtering Threshold Selection** for cloud-based ciphertext search efficiency.
-  - Applicants: Hua Dai, Yingying Jiang, Zhixiu Chen, Tianchang Yang, **Qian Zhou**, Geng Yang, Haiping Huang.
+  - Inventors: Hua Dai, Yingying Jiang, Zhixiu Chen, Tianchang Yang, **Qian Zhou**, Geng Yang, Haiping Huang.
   - ID: ZL2020122202325270 (Authorized: Sept 2022)
 
 ---
@@ -79,13 +80,12 @@ Developing intelligent algorithms for mobile objects and contagious behavior min
   - ID: ZL2022100925651 (Authorized: Nov 2024)
 
 - **[Patent] Contagious Behavior Mining** based on binary filtering for mobile objects.
-  - Applicants: Hua Dai, Yu Chen, Jiawei Li, **Qian Zhou**, Geng Yang, Haiping Huang.
+  - Inventors: Hua Dai, Yu Chen, Jiawei Li, **Qian Zhou**, Geng Yang, Haiping Huang.
   - ID: ZL2020122600529420 (Authorized: Feb 2023)
 
 - **[Patent] Spreading Pattern Mining** based on trajectory data.
-  - Applicants: Hua Dai, Tonghui Zhang, **Qian Zhou**, Jiawei Li, Geng Yang, Haiping Huang.
+  - Inventors: Hua Dai, Tonghui Zhang, **Qian Zhou**, Jiawei Li, Geng Yang, Haiping Huang.
   - ID: ZL202010950084.0 (Authorized: Oct 2022)
-  - 
 
 - **[Patent] Geographic Coordinate Density Clustering** based on GeoHash.
   - Inventors: Hua Dai, Yiyang Liu, Yu Chen, Geng Yang, Jiawei Li, **Qian Zhou**.
