@@ -108,7 +108,7 @@ Chao Meng, <u>Qian Zhou</u>, Zhixin Sun, Pan Wang<br>
 [*Acta Electronica Sinica, 2022*]
 
 - **Route Planning Based on Parallel Optimization in the Air-Ground Integrated Network** [[PDF](/files/Route_Planning_Based_on_Parallel_Optimization_in_the_Air-Ground_Integrated_Network.pdf)]<br>
-Ken, Tianlun Dai, Qinyong Lin, Xinyang Song, Wei Zhou, <u>Qian Zhou</u>, et al.<br>
+Ken Cai, Tianlun Dai, Qinyong Lin, Xinyang Song, Wei Zhou, <u>Qian Zhou</u>, et al.<br>
 [*IEEE Transactions on Intelligent Transportation Systems, 2023 (SCI Q1)*]
 
 - **TFRA: Trajectory-Based Message Ferry Recognition Attack in UAV Network** [[PDF](/files/TFRA%20Trajectory-Based%20Message%20Ferry%20Recognition%20Attack%20in%20UAV%20Network.pdf)]<br>
