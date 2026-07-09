@@ -8,7 +8,7 @@ author_profile: true
 Qian Zhou, Jiayang Wu, Fu Xiao*, Yanchun Zhang
 [*IEEE Transactions on Mobile Computing, 2026 (TMC, CCF-A)*]
 
-**Multi-objective Particle Swarm Optimization for Site Selection Integrating Epsilon Constraints and Fuzzy Mathematical Programming** [[PDF](/files/jdap2026.pdf)]
+**Multi-Objective Particle Swarm Algorithm for Location Selection Optimization Integrating Epsilon Constraint and Fuzzy Mathematical Programming** [[PDF](/files/jdap2026.pdf)]
 Qian Zhou, Jiayang Wu*, Yuhang Zhou
 [*Journal of Data Acquisition and Processing, 2026*]
 
