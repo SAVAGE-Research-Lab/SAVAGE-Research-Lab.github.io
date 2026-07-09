@@ -55,7 +55,7 @@ Building secure frameworks for logistics, IoV (Internet of Vehicles), and smart 
 Dedicated to high-performance middleware and efficient encrypted data retrieval.
 
 - **[SW] Distributed Message Middleware with High Real-time & Fault Tolerance.**
-  - Target: **Domestic Autonomous Computing Platforms (自主可控国产平台)**.
+  - Target: **Domestic Autonomous Computing Platforms**.
   - Copyright ID: 2023SR0997588 (Ranking: 1st).
 
 - **[Patent] Semantic-aware Feature Keyword Extraction** for optimized ciphertext retrieval in cloud environment.
