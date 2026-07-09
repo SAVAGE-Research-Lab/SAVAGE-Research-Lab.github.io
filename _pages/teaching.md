@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "🏛️ Teaching & Education Research"
+title: "🏛️Teaching & Education Research"
 author_profile: true
 ---
 ## Courses Taught
