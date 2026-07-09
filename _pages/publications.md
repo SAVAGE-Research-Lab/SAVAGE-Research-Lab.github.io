@@ -40,6 +40,6 @@ Qian Zhou, Hua Dai, Zheng Hu, Geng Yang, Yang Xiang, Jiaxing Lu<br>
 Qian Zhou, Hua Dai, Wenjie Shen, Zheng Hu, Geng Yang<br>
 [*World Wide Web, 2022 (CCF-B)*]
 
-- **A Survey on Verifiable Keyword Search over Encrypted Cloud Data** [[PDF](/files/Research%20on%20Verifiable%20Keyword%20Search%20ove%20rEncrypted%20Cloud%20Data%20A%20Survey.pdf)]<br>
+- **Research on Verifiable Keyword Search over Encrypted CloudData:A Survey** [[PDF](/files/Research%20on%20Verifiable%20Keyword%20Search%20ove%20rEncrypted%20Cloud%20Data%20A%20Survey.pdf)]<br>
 Qian Zhou, Hua Dai, Wenjie Sheng, Zheng Hu, Geng Yang<br>
 [*Computer Science, 2022 (CCF-T2)*]
