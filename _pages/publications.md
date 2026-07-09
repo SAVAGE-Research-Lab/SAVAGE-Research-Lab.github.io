@@ -3,8 +3,6 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-
-
 - **Latency-Failure-Aware Multi-Agent Fuzzy Reinforcement Learning for Reliable Service Function Chain Backup** [[PDF](/files/Latency-Failure-Aware_Multi-Agent_Fuzzy_Reinforcement_Learning_for_Reliable_Service_Function_Chain_Backup.pdf)]<br>
 <u>Qian Zhou</u>, Jiayang Wu, Fu Xiao\*, Yanchun Zhang<br>
 [*IEEE Transactions on Mobile Computing, 2026 (CCF-A, SCI Q1)*]
