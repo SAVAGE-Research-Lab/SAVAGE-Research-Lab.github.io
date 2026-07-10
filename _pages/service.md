@@ -6,7 +6,7 @@ author_profile: true
 
 ## Editorial Board & Journal Leadership
 
-- **Associate Editor**, *Health Information Science and Systems* (Springer, SCI Index)
+- **Associate Editor**, *Health Information Science and Systems* (**Springer**, SCI Index)
   - Main Responsibilities: Directing the peer-review process and decision-making for high-impact manuscripts in secure healthcare systems and AI.
 
 ## Conference Leadership
