@@ -3,19 +3,34 @@ permalink: /team/
 title: "SAVAGE Lab"
 author_profile: true
 ---
+At SAVAGE Lab, we aim to push the boundaries of System Security and Availability. We value rigor, persistence, and the courage to tackle real-world hard problem.
+
+We are always looking for self-motivated students with strong backgrounds in math, coding, networking, and system design. If you want to work on mission-critical security projects, contact us. Feel free to send me inquiries at: [zhouqian@njupt.edu.cn](mailto:zhouqian@njupt.edu.cn).
+
+<p align="center">
+  <img src="{{ '/images/savage-lab.png' | relative_url }}" alt="SAVAGE Lab research areas" style="max-width: 100%; height: auto;">
+</p>
 
 ## Current Members
 
-- **Dr. Qian Zhou** — Lab Director
-- Student Name 1 — PhD Student
-- Student Name 2 — Master Student
+...
 
-## Achievements
+- **Jie Zeng** (MS Student at NJUPT, 2025–Present)  
+  **Research Focus:**
+- **Shiang Zhao** (MS Student at)  
+  **Research Focus:** ...
 
-- 1st Prize, 14th "China Software Cup" National College Student Software Design Contest, 2025.08 (Outstanding Instructor)
-- 1st Prize, Jiangsu Province Micro-Lecture Teaching Competition, *Network Security Technology* (Bilingual), 2019.12
-- 1st Prize, 14th Young Faculty Teaching Competition, Nanjing University of Posts and Telecommunications, 2020.12
+## Alumni
 
+- **Jiayang Wu** (MS Student at NJUPT, 2023–2026)  
+  **Research Focus:** Autonomous System Security, Protocol Fuzzing.
 
----
-*Looking for self-motivated students (Master & PhD). Welcome to contact us!*
+## Activities
+
+<p align="center">
+  <img src="{{ '/images/activity-01.jpg' | relative_url }}" alt="SAVAGE Lab group photo in the laboratory" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="{{ '/images/activity-02.jpg' | relative_url }}" alt="SAVAGE Lab group photo on campus" style="max-width: 100%; height: auto;">
+</p>
