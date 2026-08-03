@@ -41,8 +41,6 @@ We are always looking for self-motivated students with strong backgrounds in mat
 
 ## Alumni
 
-## Alumni
-
 - **Jiayang Wu** (MS Student at NJUPT, 2023–2026)  
   **Research Focus:** Autonomous System Security, Protocol Fuzzing.  
   **After Graduation:** HONOR Device Nanjing Research Institute.
