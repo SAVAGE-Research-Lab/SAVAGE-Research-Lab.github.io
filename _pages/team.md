@@ -41,17 +41,23 @@ We are always looking for self-motivated students with strong backgrounds in mat
 
 ## Alumni
 
+## Alumni
+
 - **Jiayang Wu** (MS Student at NJUPT, 2023–2026)  
-  **Research Focus:** Autonomous System Security, Protocol Fuzzing.
+  **Research Focus:** Autonomous System Security, Protocol Fuzzing.  
+  **After Graduation:** HONOR Device Nanjing Research Institute.
 
 - **Mengyue Zhu** (MS Student at NJUPT, 2023–2026)  
-  **Research Focus:** Image Steganography, Deep Learning.
+  **Research Focus:** Image Steganography, Deep Learning.  
+  **After Graduation:** Tencent Music Entertainment Group.
 
 - **Wei Shen** (MS Student at NJUPT, 2022–2025)  
-  **Research Focus:** Cryptography.
-    
+  **Research Focus:** Cryptography.  
+  **After Graduation:** China Mobile Communications Group Jiangsu Co., Ltd.
+
 - **Yujuan Yang** (MS Student at NJUPT, 2020–2023)  
-  **Research Focus:** Network and Information Security.
+  **Research Focus:** Network and Information Security.  
+  **After Graduation:** China Unicom (Jiangsu) Industrial Internet Co., Ltd.
   
 ## Activities
 
