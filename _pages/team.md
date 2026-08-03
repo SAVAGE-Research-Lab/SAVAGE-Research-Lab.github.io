@@ -28,10 +28,10 @@ We are always looking for self-motivated students with strong backgrounds in mat
   **Research Focus:** Computer Vision, UAV Small Object Detection.
 
 - **Tianyu Zhou** (MS Student at NJUPT, 2024–Present) 
-  **Research Focus:** Reinforcement Learning, Multi-UAV Formation Navigation.
+   **Research Focus:** Reinforcement Learning, Multi-UAV Formation Navigation.
 
 - **Zhaodong Xu** (MS Student at NJUPT, 2024–Present) 
-  **Research Focus:** Swarm Intelligence Optimization, UAV Path Planning.
+   **Research Focus:** Swarm Intelligence Optimization, UAV Path Planning.
 
 - **Junfeng Liu** (MS Student at NJUPT, 2024–Present)  
   **Research Focus:** Evolutionary Algorithms, UAV Path Planning.
