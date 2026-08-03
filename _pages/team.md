@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "👥 SAVAGE Lab"
+title: "👥SAVAGE Lab"
 author_profile: true
 ---
 At SAVAGE Lab, we aim to push the boundaries of System Security and Availability. We value rigor, persistence, and the courage to tackle real-world hard problem.
