@@ -114,3 +114,7 @@ Ken Cai, Tianlun Dai, Qinyong Lin, Xinyang Song, Wei Zhou, <u>Qian Zhou</u>, et 
 - **TFRA: Trajectory-Based Message Ferry Recognition Attack in UAV Network** [[PDF](/files/TFRA%20Trajectory-Based%20Message%20Ferry%20Recognition%20Attack%20in%20UAV%20Network.pdf)]<br>
 Yuting Wu, Yulei Liu, Liang Liu, Feng Wang, Lihong Fan, <u>Qian Zhou</u><br>
 [*WASA, 2021, pp. 510-522 (CCF-C)*]
+
+- **Connotation and Practice of the Integration of Academic Field Based on Bourdieu's Theory: Taking the Cultivation of Cyberspace Security Talents as an Example** [[PDF](/files/基于布迪厄理论的学术场域融合意蕴与实践——以网络空间安全人才培养为例_周倩.pdf)]<br>
+<u>Qian Zhou</u><br>, Haiping Huang, Le Wang, Yanchun Zhang, Fu Xiao
+[*Chinese Journal of Network and Information Security, 2023, pp. 178-187*]
